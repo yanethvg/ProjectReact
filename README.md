@@ -6,27 +6,27 @@ Use of Hooks, Context API, Functional and Class Components
 
 Project that carried out with Hooks in the local storage the information of each patient and delete it. 
 * Project name: citas-hooks-react
-* is displayed here: * [Appountment Management Hooks](https://date-hooks-react.netlify.com/)
+* is displayed here: [Appountment Management Hooks](https://date-hooks-react.netlify.com/)
 
 ### :hamster: 2-Appointment Management Project in a Veterinary :rabbit:
 
 Project that made with Class Components can save the information of each patient in the local storage and delete it.
 * Project name: pacientes-veterinaria
-* it is displayed here: * [Appountment Management Class](https://veterinary-first.netlify.com/)
+* it is displayed here: [Appountment Management Class](https://veterinary-first.netlify.com/)
 
 ### :pound: 3-Draft weekly budget :dollar:
 
 Draft weekly budget made with Hooks.
 * Project name: presupuesto-hooks-react
-* it is displayed here: * [Draft weekly budget](https://expenses-budget-react.netlify.com/)
+* it is displayed here:  [Draft weekly budget](https://expenses-budget-react.netlify.com/)
 
 ### :blue_book: 4-Event Project with EventBrite :closed_book:
 
 Event Project with EventBrite made with context api.
 * Project name: proyecto-eventos
-* the deployment link is here:* [Event Project](https://eventbrite-event.netlify.com/)
+* the deployment link is here: [Event Project](https://eventbrite-event.netlify.com/)
 
-### newspaper: 5-News project :bookmark:
+### :newspaper: 5-News project :bookmark:
 
 News project carried out with class components.
 * Project name: proyecto-noticias
@@ -36,7 +36,7 @@ News project carried out with class components.
 
 Breaking Bad phrases project carried out with hooks.
 * Project name: breakingbad-react
-* is displayed here:* [Breaking Bad](https://breaking-bad-react.netlify.com/)
+* is displayed here: [Breaking Bad](https://breaking-bad-react.netlify.com/)
 
 ### :money_with_wings: 7-Criptomoneda project :moneybag:
 
@@ -48,13 +48,13 @@ Critomoneda Quotation Project carried out with Hooks
 
 Project to search for song lyrics and artist information made with Hooks and consult two apis
 * Project name: project-music-react
-* is displayed here:* [Music](https://music-letter-react.netlify.com/)
+* is displayed here: [Music](https://music-letter-react.netlify.com/)
 
 ### :computer: 9-Pixabay project :gift_heart:
 
 Project that consults images on the pixabay platform and that allows to see information of each image, carried out with Hooks
 * Project name: pixabay-project
-* is displayed here:* [Pixabay](https://pixabay-react.netlify.com/)
+* is displayed here: [Pixabay](https://pixabay-react.netlify.com/)
 
 ### :sunny: 10-Clima project :umbrella:
 
