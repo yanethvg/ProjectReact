@@ -62,12 +62,12 @@ Project that consults the climate carried out with Hooks
 * Project name: proyecto-clima
 * is displayed here:* [Clima](https://app-clima.netlify.com/)
 
-### :flushed: 10-People project :stuck_out_tongue_winking_eye:
+### :flushed: 11-People project :stuck_out_tongue_winking_eye:
 
 People consultation project
 * Project name: proyecto-personas
 
-### :email: 10-Sign-in project :email:
+### :email: 12-Sign-in project :email:
 
 Log in via facebook and gmail
 * Project name: social-sign-in
