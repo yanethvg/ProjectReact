@@ -32,7 +32,7 @@ Event Project with EventBrite made with context api.
 
 News project carried out with class components.
 * Project name: proyecto-noticias
-* is displayed here:* [News project](https://notify-react.netlify.com/)
+* is displayed here: [News project](https://notify-react.netlify.com/)
 
 ### :hurtrealbad: 6-Breaking Bad project :rage3:
 
@@ -62,7 +62,7 @@ Project that consults images on the pixabay platform and that allows to see info
 
 Project that consults the climate carried out with Hooks
 * Project name: proyecto-clima
-* is displayed here:* [Clima](https://app-clima.netlify.com/)
+* is displayed here: [Clima](https://app-clima.netlify.com/)
 
 ### :flushed: 11-People project :stuck_out_tongue_winking_eye:
 
@@ -73,5 +73,11 @@ People consultation project
 
 Log in via facebook and gmail
 * Project name: social-sign-in
+
+### :school_satchel: 13-Product Management :confetti_ball:
+
+CRUD using Routeo using react-router-dom with Hooks
+* Project name: products-crud-react
+* is displayed here: [Products](https://product-react.netlify.com/)
 
 
