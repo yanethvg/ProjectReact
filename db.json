@@ -1,0 +1,22 @@
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "Rib Eye 400g",
+      "precioPlatillo": "400",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Ensalada",
+      "precioPlatillo": "200",
+      "categoria": "cortes",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "Coca Cola",
+      "precioPlatillo": "90",
+      "categoria": "bebida",
+      "id": 4
+    }
+  ]
+}
