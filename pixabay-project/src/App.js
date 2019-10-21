@@ -12,7 +12,7 @@ function App() {
     if (busquedaTema === "") return;
     const consultarAPI = async () => {
       const imagenesPorPagina = 30;
-      const key = "13941554-867e67329ef42539f601d6ad7";
+      const key = "";
       const url = `https://pixabay.com/api/?key=${key}&q=${busquedaTema}&per_page=${imagenesPorPagina}&page=${paginaActual}`;
       const response = await fetch(url);
       const resultado = await response.json();
